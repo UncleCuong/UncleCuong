@@ -1,6 +1,6 @@
 ## 👨‍💻 About Me
 
-I am an Embedded Software & IoT Engineer driven by a strong passion for hardware-software integration and low-level firmware optimization. I enjoy bridging the physical and digital worlds by designing smart IoT solutions, real-time control systems, and interactive human-machine interfaces (HMI).
+I'm an Embedded Software Engineer passionate about developing efficient firmware and hardware-software integration. 
 
 My work focuses on: `C/C++ firmware development` • `Microcontrollers` • `Embedded Systems`
 
@@ -9,16 +9,16 @@ My work focuses on: `C/C++ firmware development` • `Microcontrollers` • `Emb
 ## 🛠 Tech Stack
 
 * **Languages:** `C` • `C++` • `Python`
-* **Platforms:** `STM32` • `ESP32` • `Raspberry Pi`
+* **Hardware:** `STM32` • `ESP32` • `Raspberry Pi`
 * **Cloud & Database:** `Firebase` • `MQTT`
-* **Development:** `Git` • `CMake` • `VS Code`
-* **Tools & Design:** `Unity` • `Blender` • `Adobe Suite`
+* **Tools & IDEs:** `Git` • `VS Code` • `Google Antigravity`
+* **Other:** `Unity` • `Blender` • `Adobe Suite`
 
 ---
 
 ## 🚀 Featured Projects
 
-🤖 **Touchless Hospital Control System**
+📟 **Touchless Hospital Control System**
 * **Tech:** Raspberry Pi 4, ESP32, Computer Vision, OpenCV, MQTT.
 * Developed a gesture-controlled IoT system to operate hospital room devices without physical contact.
 * Integrated Raspberry Pi for real-time hand gesture recognition and ESP32 for wireless load control.
