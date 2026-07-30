@@ -6,7 +6,7 @@ My work focuses on: `C/C++ firmware development` • `Microcontrollers` • `Emb
 
 ---
 
-## 🛠 Tech Stack
+## 🛠 Tech
 
 * **Languages:** `C` • `C++` • `Python`
 * **Hardware:** `STM32` • `ESP32` • `Raspberry Pi`
