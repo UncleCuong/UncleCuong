@@ -10,7 +10,7 @@ My work focuses on: `C/C++ firmware development` • `Microcontrollers` • `Emb
 
 * **Languages:** `C` • `C++` • `Python`
 * **Hardware:** `STM32` • `ESP32` • `Raspberry Pi`
-* **Cloud & Database:** `Firebase` • `MQTT`
+* **Cloud & Database:** `Firebase`
 * **Tools & IDEs:** `Git` • `VS Code` • `Google Antigravity`
 * **Other:** `Unity` • `Blender` • `Adobe Suite`
 
