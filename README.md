@@ -18,7 +18,7 @@ My work focuses on: `C/C++ firmware development` • `Microcontrollers` • `Emb
 
 ## 🚀 Featured Projects
 
-📟 **[Gesture-Controlled Hospital Room System](https://github.com/UncleCuong/dieu-khien-thiet-bi-phong-benh-raspi4)**
+📟 **[Gesture-Controlled Hospital Room System](https://github.com/UncleCuong/dieu-khien-thiet-bi-phong-benh-bang-cu-chi-su-dung-raspberry-pi-4)**
 * **Tech:** Raspberry Pi 4, ESP32, Computer Vision, OpenCV, MQTT.
 * Developed a gesture-controlled IoT system to operate hospital room devices without physical contact.
 * Integrated Raspberry Pi for real-time hand gesture recognition and ESP32 for wireless load control.
