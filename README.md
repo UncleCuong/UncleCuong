@@ -1,6 +1,6 @@
 ## 👨‍💻 About Me
 
-I'm an Embedded Software Engineer passionate about developing efficient firmware and hardware-software integration. 
+Passionate about Embedded Systems & IoT, with a strong interest in hardware-software integration, circuit debugging, and practical tech solutions.
 
 My work focuses on: `C/C++ firmware development` • `Microcontrollers` • `Embedded Systems`
 
@@ -11,7 +11,7 @@ My work focuses on: `C/C++ firmware development` • `Microcontrollers` • `Emb
 * **Languages:** `C` • `C++` • `Python`
 * **Hardware:** `STM32` • `ESP32` • `Raspberry Pi`
 * **Cloud & Database:** `Firebase`
-* **Tools & IDEs:** `Git` • `VS Code` • `Google Antigravity`
+* **Tools & IDEs:** `Git` • `VS Code`
 * **Other:** `Unity` • `Blender` • `Adobe Suite`
 
 ---
